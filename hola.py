@@ -1,3 +1,4 @@
 for i in range(23):
-    print("hola")
+    print ("hola")
     m = 67*i
+    print (m)
